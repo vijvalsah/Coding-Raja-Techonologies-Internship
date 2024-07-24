@@ -75,3 +75,12 @@ class BalanceEnquiry extends JFrame implements ActionListener {
       (new BalanceEnquiry("")).setVisible(true);
    }
 }
+
+
+package ASimulatorSystem;
+
+public class BalanceEnquiry {
+   public BalanceEnquiry() {
+   }
+}
+
